@@ -1,0 +1,19 @@
+section{
+	width:700px;
+	margin-left:250px;
+}
+h2{
+	margin-top:0px;
+}/*
+.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8, .a9, .a10{
+	margin-right:150px;
+    margin-top:20px;
+padding:10px;	
+}*/
+#ic, #zip{
+	margin-left:10px;
+}
+label{
+	text-align:justify;
+}		
+
